@@ -1,0 +1,23 @@
+.navigation ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  height: 56px;
+  align-items: center;
+
+  color: aliceblue;
+}
+
+.content {
+  padding: 16px;
+  color: aliceblue;
+}
+
+.content img {
+  width: 100%;
+  border-radius: 6px;
+}
+.content h2 {
+  margin-top: 16px;
+  margin-bottom: 12px;
+}
